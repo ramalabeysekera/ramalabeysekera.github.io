@@ -3,7 +3,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { m
 
 /** Basic styling */
 body { 
-  font: 400 16px/1.5 "Droid Sans Mono", monospace; 
+  font: 400 24px/1.5 "Droid Sans Mono", monospace; 
   color: #ddd; 
   background-color: #000; 
   -webkit-text-size-adjust: 100%; 
